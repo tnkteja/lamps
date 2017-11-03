@@ -1,5 +1,5 @@
 # lamps
-
+[6] is a good read read on how to install lamp server.
 ## Linux
 
 we are on linux.
@@ -14,9 +14,12 @@ Follow instructions on [4] which is good. [2] really helps you to create the sel
 To setup a https redirect for your server.
 ..
 
+## Mysql Server
+
 ## References
 1. _https://en.wikipedia.org/wiki/LAMP_(software_bundle)_
 2. _http://www.selfsignedcertificate.com/_
 3. _https://www.namecheap.com/support/knowledgebase/article.aspx/9821/38/redirect-to-https-on-apache_
 4. _https://askubuntu.com/questions/51840/ssl-certification-is-missing_
 5. _https://debian-administration.org/article/349/Setting_up_an_SSL_server_with_Apache2_
+6. _http://howtoubuntu.org/how-to-install-lamp-on-ubuntu_
