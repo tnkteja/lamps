@@ -1,5 +1,13 @@
 # lamps
 
+## Linux
+
+we are on linux.
+```
+#install the apache2 server
+sudo apt-get install apache2
+```
+## Apache2
 Setting up the apache server to setup the https for your server.
 Follow instructions on [4] which is good. [2] really helps you to create the self signed certificates simply. [4] and [3] help but not so much.
 ## References
