@@ -13,6 +13,7 @@ Setting up the apache server to setup the https for your server.
 Follow instructions on [4] which is good. [2] really helps you to create the self signed certificates simply. [4] and [3] help but not so much.
 To setup a https redirect for your server.
 ..
+
 ## References
 1. _https://en.wikipedia.org/wiki/LAMP_(software_bundle)_
 2. _http://www.selfsignedcertificate.com/_
