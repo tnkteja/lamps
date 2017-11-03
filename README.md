@@ -16,7 +16,7 @@ To setup a https redirect for your server.
 
 ## Mysql Server or any popular sql server not necessarily mysql pshh!
 
-### Mariadb
+### Mariadb [8]
 one good choice. [7] shows how to get tit for ubuntu.
 
 ## References
@@ -27,3 +27,4 @@ one good choice. [7] shows how to get tit for ubuntu.
 5. _https://debian-administration.org/article/349/Setting_up_an_SSL_server_with_Apache2_
 6. _http://howtoubuntu.org/how-to-install-lamp-on-ubuntu_
 7. _https://downloads.mariadb.org/mariadb/repositories/#mirror=digitalocean-sfo&distro=Ubuntu&distro_release=trusty--ubuntu_trusty&version=5.5_
+8. _https://en.wikipedia.org/wiki/MariaDB_
