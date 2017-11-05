@@ -20,6 +20,7 @@ To setup a https redirect for your server.
 ### Mariadb [8]
 one good choice. [7] shows how to get tit for ubuntu.
 
+Further I would call any development suite of stack of software components for web application development as `LAMP mock <something>`
 ## References
 1. _https://en.wikipedia.org/wiki/LAMP_(software_bundle)_
 2. _http://www.selfsignedcertificate.com/_
