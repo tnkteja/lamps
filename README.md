@@ -49,3 +49,4 @@ LAMP mock Linux Weblogic Postgres Java
 9. _http://modwsgi.readthedocs.io/en/develop/user-guides/configuration-guidelines.html_
 10. _https://en.wikipedia.org/wiki/Virtual_hosting_
 11. _https://lemp.io/_
+12. _https://www.conetix.com.au/blog/apache-vs-nginx-vs-openlitespeed-part-1_
