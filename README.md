@@ -1,5 +1,8 @@
 # lamps
 [6] is a good read read on how to install lamp server.
+
+### Virtual Hosting
+[10] is a good read on Virtual Hosting. We have Name, IP , Port based Virtual Hostings.
 ## Linux
 
 we are on linux.
@@ -44,3 +47,5 @@ LAMP mock Linux Weblogic Postgres Java
 7. _https://downloads.mariadb.org/mariadb/repositories/#mirror=digitalocean-sfo&distro=Ubuntu&distro_release=trusty--ubuntu_trusty&version=5.5_
 8. _https://en.wikipedia.org/wiki/MariaDB_
 9. _http://modwsgi.readthedocs.io/en/develop/user-guides/configuration-guidelines.html_
+10. _https://en.wikipedia.org/wiki/Virtual_hosting_
+11. _https://lemp.io/_
