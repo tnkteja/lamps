@@ -10,6 +10,8 @@ we are on linux.
 #install the apache2 server
 sudo apt-get install apache2
 ```
+[13] has a comprehensive list  of server management control panels.
+
 ## Apache2
 Setting up virtual hosting for your server
 Setting up the apache server to setup the https for your server.
@@ -50,3 +52,4 @@ LAMP mock Linux Weblogic Postgres Java
 10. _https://en.wikipedia.org/wiki/Virtual_hosting_
 11. _https://lemp.io/_
 12. _https://www.conetix.com.au/blog/apache-vs-nginx-vs-openlitespeed-part-1_
+13. _http://www.hostingadvice.com/blog/cpanel-vs-plesk-vs-webpanel/-
