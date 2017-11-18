@@ -10,7 +10,7 @@ we are on linux.
 #install the apache2 server
 sudo apt-get install apache2
 ```
-[13] has a comprehensive list  of server management control panels. webmin is a good control panel. Good read to install it on Ubnutu. [14] and [15]
+[13][16] has a comprehensive list  of server management control panels. webmin is a good control panel. Good read to install it on Ubnutu. [14] and [15]
 
 ## Apache2
 Setting up virtual hosting for your server
@@ -55,3 +55,4 @@ LAMP mock Linux Weblogic Postgres Java
 13. _http://www.hostingadvice.com/blog/cpanel-vs-plesk-vs-webpanel/-
 14. _https://www.rosehosting.com/blog/install-webmin-on-an-ubuntu-vps/_
 15. _http://www.webmin.com/download.html_
+16. _https://www.rosehosting.com/blog/best-open-source-hosting-control-panels/_
